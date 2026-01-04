@@ -3,13 +3,9 @@
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-18. 3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
 ![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
 ![Redux](https://img.shields.io/badge/Redux-4.2.1-764ABC? style=for-the-badge&logo=redux&logoColor=white)
-
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4.1.13-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.8-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **A modern, full-stack platform connecting communities with local service providers in real-time**
