@@ -550,8 +550,7 @@ furnished to do so, subject to the following conditions:
 
 Need help?  Reach out: 
 
-- 📧 Email: support@neighborhoodhelp.com
-- 💬 Discord: [Join our community](https://discord.gg/neighborhoodhelp)
+- 📧 Email: gouravlambha007@gmail;.com
 - 📖 Documentation: [Read the docs](https://docs.neighborhoodhelp.com)
 - 🐦 Twitter: [@NeighborhoodHelp](https://twitter.com/neighborhoodhelp)
 
