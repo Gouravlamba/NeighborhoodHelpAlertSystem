@@ -12,7 +12,7 @@
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.8-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**A modern, full-stack platform connecting communities with local service providers in real-time***
+**A modern, full-stack platform connecting communities with local service providers in real-time**
 
 [Features](#-key-features) • [Tech Stack](#-technology-stack) • [Installation](#️-installation--setup) • [API Documentation](#-api-documentation) • [Contributing](#-contributing)
 
