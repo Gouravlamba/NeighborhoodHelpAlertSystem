@@ -1,4 +1,4 @@
-# 🏘️ Neighborhood Help Alert System
+## 🏘️ Neighborhood Help Alert System
 
 <div align="center">
 
@@ -36,7 +36,7 @@ The **Neighborhood Help Alert System** is a comprehensive community-driven platf
 
 ---
 
-###🌟 Key Features
+### 🌟 Key Features
 
 ### 👥 For Users
 
