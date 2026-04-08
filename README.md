@@ -1,6 +1,6 @@
 # 🏘️ Neighborhood Help Alert System
 
-<div align="center">
+<div align="center"
 
 ![React](https://img.shields.io/badge/React-18. 3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
