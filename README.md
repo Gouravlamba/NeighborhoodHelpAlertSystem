@@ -24,7 +24,7 @@
 
 The **Neighborhood Help Alert System** is a comprehensive community-driven platform designed to bridge the gap between service seekers and local service providers. Whether you need a plumber, electrician, healthcare professional, educator, or technical expert, this system enables quick and efficient connections within your neighborhood.
 
-### 🎯 Project Objectives
+ 🎯 Project Objectives
 
 - **Connect Communities**: Facilitate instant connections between users and local service providers
 - **Location-Based Services**: Leverage geolocation to find the nearest available professionals
