@@ -1,4 +1,4 @@
-# 🏘️ Neighborhood Help Alert Syste
+# 🏘️ Neighborhood Help Alert System
 
 <div align="center">
 
